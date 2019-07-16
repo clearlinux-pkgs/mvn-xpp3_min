@@ -4,13 +4,13 @@
 #
 Name     : mvn-xpp3_min
 Version  : 1.1.4c
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
 Source0  : https://repo1.maven.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
 Source1  : https://repo1.maven.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
-License  : Domain
+License  : Public-Domain
 Requires: mvn-xpp3_min-data = %{version}-%{release}
 
 %description
