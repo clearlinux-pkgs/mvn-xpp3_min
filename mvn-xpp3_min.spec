@@ -4,7 +4,7 @@
 #
 Name     : mvn-xpp3_min
 Version  : 1.1.4c
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
 Source0  : https://repo1.maven.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
 Source1  : https://repo1.maven.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
